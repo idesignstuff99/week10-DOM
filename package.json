@@ -1,0 +1,22 @@
+{
+  "name": "dom-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DOM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idesignstuff99/week10-DOM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idesignstuff99/week10-DOM/issues"
+  },
+  "homepage": "https://github.com/idesignstuff99/week10-DOM#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
